@@ -1,0 +1,33 @@
+{
+  "name": "vector-composition-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/extract-assets.mjs",
+    "dev": "node scripts/dev.mjs",
+    "dev:client": "vite --host 127.0.0.1",
+    "server": "node server/index.mjs",
+    "prebuild": "node scripts/extract-assets.mjs",
+    "build": "tsc -b && vite build",
+    "test": "vitest run",
+    "preview": "node scripts/dev.mjs --preview",
+    "test:watch": "vitest",
+    "test:server": "vitest run --config server/vitest.config.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^25.0.1",
+    "typescript": "~5.6.2",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.5"
+  }
+}

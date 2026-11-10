@@ -1,0 +1,234 @@
+{
+  "source": {
+    "file": "Размер L edited.svg",
+    "sha256": "37f00d6cc3608f5811dba89c98abb80b20fef8f11ab69134a0825db589386e08",
+    "width": 4799,
+    "height": 11051,
+    "rootElementCount": 1608,
+    "rootPathCount": 1578,
+    "excludedPathCount": 26,
+    "excludedReason": "Canvas outline, palette board marks, and outlined section labels; all are outside the 20 object coordinate regions documented below."
+  },
+  "assets": [
+    {
+      "id": "book",
+      "name": "Open book",
+      "role": "foreground",
+      "category": "Learning",
+      "tags": ["book", "reading", "knowledge", "learning", "education", "ideas"],
+      "viewBox": "391 3467 1447 978",
+      "pathCount": 54,
+      "sourceElementRanges": [{ "from": 161, "to": 161 }, { "from": 163, "to": 215 }],
+      "selectionRegion": { "x": 350, "y": 3400, "width": 1500, "height": 1050 }
+    },
+    {
+      "id": "phone",
+      "name": "Smartphone",
+      "role": "foreground",
+      "category": "Technology",
+      "tags": ["phone", "smartphone", "communication", "technology", "device", "connection"],
+      "viewBox": "2038 3718 798 463",
+      "pathCount": 155,
+      "sourceElementRanges": [{ "from": 269, "to": 423 }],
+      "selectionRegion": { "x": 1850, "y": 3650, "width": 1050, "height": 600 }
+    },
+    {
+      "id": "puzzle-pieces",
+      "name": "Puzzle pieces",
+      "role": "foreground",
+      "category": "Ideas",
+      "tags": ["puzzle", "solution", "challenge", "connection", "problem solving"],
+      "viewBox": "3100 3827 545 315",
+      "pathCount": 57,
+      "sourceElementRanges": [{ "from": 23, "to": 79 }],
+      "selectionRegion": { "x": 3000, "y": 3750, "width": 700, "height": 500 }
+    },
+    {
+      "id": "compact-disc",
+      "name": "Compact disc",
+      "role": "foreground",
+      "category": "Music",
+      "tags": ["disc", "music", "media", "memory", "technology"],
+      "viewBox": "4005 3945 287 190",
+      "pathCount": 136,
+      "sourceElementRanges": [{ "from": 1065, "to": 1200 }],
+      "selectionRegion": { "x": 3950, "y": 3900, "width": 400, "height": 350 }
+    },
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "role": "foreground",
+      "category": "Music",
+      "tags": ["headphones", "music", "focus", "audio", "work"],
+      "viewBox": "470 4803 889 692",
+      "pathCount": 84,
+      "sourceElementRanges": [{ "from": 579, "to": 662 }],
+      "selectionRegion": { "x": 420, "y": 4750, "width": 980, "height": 850 }
+    },
+    {
+      "id": "desk-lamp",
+      "name": "Desk lamp",
+      "role": "foreground",
+      "category": "Work",
+      "tags": ["lamp", "light", "focus", "ideas", "work"],
+      "viewBox": "1822 4438 947 1130",
+      "pathCount": 27,
+      "sourceElementRanges": [{ "from": 747, "to": 773 }],
+      "selectionRegion": { "x": 1850, "y": 4350, "width": 1000, "height": 1250 }
+    },
+    {
+      "id": "tulips",
+      "name": "Tulips",
+      "role": "foreground",
+      "category": "Growth",
+      "tags": ["tulips", "flowers", "growth", "care", "creativity", "life"],
+      "viewBox": "3036 4712 591 748",
+      "pathCount": 131,
+      "sourceElementRanges": [{ "from": 1345, "to": 1475 }],
+      "selectionRegion": { "x": 2950, "y": 4650, "width": 750, "height": 950 }
+    },
+    {
+      "id": "wallet",
+      "name": "Wallet",
+      "role": "foreground",
+      "category": "Finance",
+      "tags": ["wallet", "money", "finance", "personal", "resources"],
+      "viewBox": "3868 5095 631 397",
+      "pathCount": 86,
+      "sourceElementRanges": [{ "from": 801, "to": 886 }],
+      "selectionRegion": { "x": 3800, "y": 4950, "width": 750, "height": 650 }
+    },
+    {
+      "id": "paper",
+      "name": "Paper sheets",
+      "role": "foreground",
+      "category": "Planning",
+      "tags": ["paper", "notes", "planning", "writing", "ideas", "work"],
+      "viewBox": "365 5920 1241 659",
+      "pathCount": 22,
+      "sourceElementRanges": [{ "from": 1021, "to": 1042 }],
+      "selectionRegion": { "x": 320, "y": 5850, "width": 1330, "height": 850 }
+    },
+    {
+      "id": "pen",
+      "name": "Pen",
+      "role": "foreground",
+      "category": "Planning",
+      "tags": ["pen", "writing", "planning", "creativity"],
+      "viewBox": "1795 6127 510 287",
+      "pathCount": 24,
+      "sourceElementRanges": [{ "from": 973, "to": 996 }],
+      "selectionRegion": { "x": 1700, "y": 6050, "width": 700, "height": 500 }
+    },
+    {
+      "id": "book-silhouette",
+      "name": "Book shadow",
+      "role": "background",
+      "category": "Learning",
+      "tags": ["book", "reading", "knowledge", "learning", "background", "shadow"],
+      "viewBox": "391 7491 1447 978",
+      "pathCount": 54,
+      "sourceElementRanges": [{ "from": 162, "to": 162 }, { "from": 216, "to": 268 }],
+      "selectionRegion": { "x": 350, "y": 7450, "width": 1500, "height": 1050 }
+    },
+    {
+      "id": "phone-silhouette",
+      "name": "Phone shadow",
+      "role": "background",
+      "category": "Technology",
+      "tags": ["phone", "smartphone", "technology", "background", "shadow"],
+      "viewBox": "2038 7742 798 463",
+      "pathCount": 155,
+      "sourceElementRanges": [{ "from": 424, "to": 578 }],
+      "selectionRegion": { "x": 1850, "y": 7650, "width": 1050, "height": 650 }
+    },
+    {
+      "id": "puzzle-silhouette",
+      "name": "Puzzle shadow",
+      "role": "background",
+      "category": "Ideas",
+      "tags": ["puzzle", "solution", "connection", "background", "shadow"],
+      "viewBox": "3100 7851 545 315",
+      "pathCount": 57,
+      "sourceElementRanges": [{ "from": 80, "to": 136 }],
+      "selectionRegion": { "x": 3000, "y": 7750, "width": 700, "height": 550 }
+    },
+    {
+      "id": "disc-silhouette",
+      "name": "Disc shadow",
+      "role": "background",
+      "category": "Music",
+      "tags": ["disc", "music", "media", "background", "shadow"],
+      "viewBox": "4005 7970 287 189",
+      "pathCount": 136,
+      "sourceElementRanges": [{ "from": 1201, "to": 1336 }],
+      "selectionRegion": { "x": 3950, "y": 7850, "width": 400, "height": 450 }
+    },
+    {
+      "id": "headphones-silhouette",
+      "name": "Headphone shadow",
+      "role": "background",
+      "category": "Music",
+      "tags": ["headphones", "music", "audio", "background", "shadow"],
+      "viewBox": "470 8827 889 692",
+      "pathCount": 84,
+      "sourceElementRanges": [{ "from": 663, "to": 746 }],
+      "selectionRegion": { "x": 420, "y": 8750, "width": 980, "height": 850 }
+    },
+    {
+      "id": "lamp-silhouette",
+      "name": "Lamp shadow",
+      "role": "background",
+      "category": "Work",
+      "tags": ["lamp", "light", "focus", "background", "shadow"],
+      "viewBox": "1822 8462 947 1130",
+      "pathCount": 27,
+      "sourceElementRanges": [{ "from": 774, "to": 800 }],
+      "selectionRegion": { "x": 1850, "y": 8350, "width": 1000, "height": 1300 }
+    },
+    {
+      "id": "tulips-silhouette",
+      "name": "Tulip shadow",
+      "role": "background",
+      "category": "Growth",
+      "tags": ["tulips", "flowers", "growth", "background", "shadow"],
+      "viewBox": "3060 8797 592 748",
+      "pathCount": 131,
+      "sourceElementRanges": [{ "from": 1476, "to": 1606 }],
+      "selectionRegion": { "x": 2950, "y": 8700, "width": 750, "height": 950 }
+    },
+    {
+      "id": "wallet-silhouette",
+      "name": "Wallet shadow",
+      "role": "background",
+      "category": "Finance",
+      "tags": ["wallet", "finance", "background", "shadow"],
+      "viewBox": "3868 9119 631 397",
+      "pathCount": 86,
+      "sourceElementRanges": [{ "from": 887, "to": 972 }],
+      "selectionRegion": { "x": 3800, "y": 9000, "width": 750, "height": 600 }
+    },
+    {
+      "id": "paper-silhouette",
+      "name": "Paper shadow",
+      "role": "background",
+      "category": "Planning",
+      "tags": ["paper", "notes", "planning", "background", "shadow"],
+      "viewBox": "365 9944 1241 659",
+      "pathCount": 22,
+      "sourceElementRanges": [{ "from": 1043, "to": 1064 }],
+      "selectionRegion": { "x": 320, "y": 9850, "width": 1330, "height": 850 }
+    },
+    {
+      "id": "pen-silhouette",
+      "name": "Pen shadow",
+      "role": "background",
+      "category": "Planning",
+      "tags": ["pen", "writing", "background", "shadow"],
+      "viewBox": "1795 10151 510 287",
+      "pathCount": 24,
+      "sourceElementRanges": [{ "from": 997, "to": 1020 }],
+      "selectionRegion": { "x": 1700, "y": 10000, "width": 700, "height": 500 }
+    }
+  ]
+}

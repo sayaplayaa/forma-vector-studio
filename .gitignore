@@ -1,0 +1,30 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.vite/
+
+# Server-side secrets. Keep the documented empty template only.
+.env
+.env.*
+!.env.example
+
+# Local diagnostics and temporary artifacts.
+*.log
+npm-debug.log*
+logs/
+tmp-*
+*.tmp
+*.temp
+.submission-stage-*/
+asset_inspection.html
+bounds_probe.html
+
+# Local packaging artifacts are generated on demand.
+archive.zip
+public.zip
+Forma-submission.zip
+
+# OS metadata.
+.DS_Store
+Thumbs.db

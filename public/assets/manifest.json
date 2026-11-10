@@ -1,0 +1,623 @@
+{
+  "source": {
+    "file": "Размер L edited.svg",
+    "sha256": "37f00d6cc3608f5811dba89c98abb80b20fef8f11ab69134a0825db589386e08",
+    "width": 4799,
+    "height": 11051,
+    "rootPathCount": 1578,
+    "excludedPathCount": 26,
+    "excludedReason": "Canvas outline, palette board marks, and outlined section labels; all are outside the 20 object coordinate regions documented below."
+  },
+  "assets": [
+    {
+      "id": "book",
+      "name": "Open book",
+      "role": "foreground",
+      "category": "Learning",
+      "tags": [
+        "book",
+        "reading",
+        "knowledge",
+        "learning",
+        "education",
+        "ideas"
+      ],
+      "filename": "book.svg",
+      "viewBox": "391 3467 1447 978",
+      "width": 1447,
+      "height": 978,
+      "pathCount": 54,
+      "sourceRegion": {
+        "x": 350,
+        "y": 3400,
+        "width": 1500,
+        "height": 1050
+      },
+      "sourceElements": [
+        {
+          "from": 161,
+          "to": 161
+        },
+        {
+          "from": 163,
+          "to": 215
+        }
+      ]
+    },
+    {
+      "id": "phone",
+      "name": "Smartphone",
+      "role": "foreground",
+      "category": "Technology",
+      "tags": [
+        "phone",
+        "smartphone",
+        "communication",
+        "technology",
+        "device",
+        "connection"
+      ],
+      "filename": "phone.svg",
+      "viewBox": "2038 3718 798 463",
+      "width": 798,
+      "height": 463,
+      "pathCount": 155,
+      "sourceRegion": {
+        "x": 1850,
+        "y": 3650,
+        "width": 1050,
+        "height": 600
+      },
+      "sourceElements": [
+        {
+          "from": 269,
+          "to": 423
+        }
+      ]
+    },
+    {
+      "id": "puzzle-pieces",
+      "name": "Puzzle pieces",
+      "role": "foreground",
+      "category": "Ideas",
+      "tags": [
+        "puzzle",
+        "solution",
+        "challenge",
+        "connection",
+        "problem solving"
+      ],
+      "filename": "puzzle-pieces.svg",
+      "viewBox": "3100 3827 545 315",
+      "width": 545,
+      "height": 315,
+      "pathCount": 57,
+      "sourceRegion": {
+        "x": 3000,
+        "y": 3750,
+        "width": 700,
+        "height": 500
+      },
+      "sourceElements": [
+        {
+          "from": 23,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "id": "compact-disc",
+      "name": "Compact disc",
+      "role": "foreground",
+      "category": "Music",
+      "tags": [
+        "disc",
+        "music",
+        "media",
+        "memory",
+        "technology"
+      ],
+      "filename": "compact-disc.svg",
+      "viewBox": "4005 3945 287 190",
+      "width": 287,
+      "height": 190,
+      "pathCount": 136,
+      "sourceRegion": {
+        "x": 3950,
+        "y": 3900,
+        "width": 400,
+        "height": 350
+      },
+      "sourceElements": [
+        {
+          "from": 1065,
+          "to": 1200
+        }
+      ]
+    },
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "role": "foreground",
+      "category": "Music",
+      "tags": [
+        "headphones",
+        "music",
+        "focus",
+        "audio",
+        "work"
+      ],
+      "filename": "headphones.svg",
+      "viewBox": "470 4803 889 692",
+      "width": 889,
+      "height": 692,
+      "pathCount": 84,
+      "sourceRegion": {
+        "x": 420,
+        "y": 4750,
+        "width": 980,
+        "height": 850
+      },
+      "sourceElements": [
+        {
+          "from": 579,
+          "to": 662
+        }
+      ]
+    },
+    {
+      "id": "desk-lamp",
+      "name": "Desk lamp",
+      "role": "foreground",
+      "category": "Work",
+      "tags": [
+        "lamp",
+        "light",
+        "focus",
+        "ideas",
+        "work"
+      ],
+      "filename": "desk-lamp.svg",
+      "viewBox": "1822 4438 947 1130",
+      "width": 947,
+      "height": 1130,
+      "pathCount": 27,
+      "sourceRegion": {
+        "x": 1850,
+        "y": 4350,
+        "width": 1000,
+        "height": 1250
+      },
+      "sourceElements": [
+        {
+          "from": 747,
+          "to": 773
+        }
+      ]
+    },
+    {
+      "id": "tulips",
+      "name": "Tulips",
+      "role": "foreground",
+      "category": "Growth",
+      "tags": [
+        "tulips",
+        "flowers",
+        "growth",
+        "care",
+        "creativity",
+        "life"
+      ],
+      "filename": "tulips.svg",
+      "viewBox": "3036 4712 591 748",
+      "width": 591,
+      "height": 748,
+      "pathCount": 131,
+      "sourceRegion": {
+        "x": 2950,
+        "y": 4650,
+        "width": 750,
+        "height": 950
+      },
+      "sourceElements": [
+        {
+          "from": 1345,
+          "to": 1475
+        }
+      ]
+    },
+    {
+      "id": "wallet",
+      "name": "Wallet",
+      "role": "foreground",
+      "category": "Finance",
+      "tags": [
+        "wallet",
+        "money",
+        "finance",
+        "personal",
+        "resources"
+      ],
+      "filename": "wallet.svg",
+      "viewBox": "3868 5095 631 397",
+      "width": 631,
+      "height": 397,
+      "pathCount": 86,
+      "sourceRegion": {
+        "x": 3800,
+        "y": 4950,
+        "width": 750,
+        "height": 650
+      },
+      "sourceElements": [
+        {
+          "from": 801,
+          "to": 886
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "name": "Paper sheets",
+      "role": "foreground",
+      "category": "Planning",
+      "tags": [
+        "paper",
+        "notes",
+        "planning",
+        "writing",
+        "ideas",
+        "work"
+      ],
+      "filename": "paper.svg",
+      "viewBox": "365 5920 1241 659",
+      "width": 1241,
+      "height": 659,
+      "pathCount": 22,
+      "sourceRegion": {
+        "x": 320,
+        "y": 5850,
+        "width": 1330,
+        "height": 850
+      },
+      "sourceElements": [
+        {
+          "from": 1021,
+          "to": 1042
+        }
+      ]
+    },
+    {
+      "id": "pen",
+      "name": "Pen",
+      "role": "foreground",
+      "category": "Planning",
+      "tags": [
+        "pen",
+        "writing",
+        "planning",
+        "creativity"
+      ],
+      "filename": "pen.svg",
+      "viewBox": "1795 6127 510 287",
+      "width": 510,
+      "height": 287,
+      "pathCount": 24,
+      "sourceRegion": {
+        "x": 1700,
+        "y": 6050,
+        "width": 700,
+        "height": 500
+      },
+      "sourceElements": [
+        {
+          "from": 973,
+          "to": 996
+        }
+      ]
+    },
+    {
+      "id": "book-silhouette",
+      "name": "Book shadow",
+      "role": "background",
+      "category": "Learning",
+      "tags": [
+        "book",
+        "reading",
+        "knowledge",
+        "learning",
+        "background",
+        "shadow"
+      ],
+      "filename": "book-silhouette.svg",
+      "viewBox": "391 7491 1447 978",
+      "width": 1447,
+      "height": 978,
+      "pathCount": 54,
+      "sourceRegion": {
+        "x": 350,
+        "y": 7450,
+        "width": 1500,
+        "height": 1050
+      },
+      "sourceElements": [
+        {
+          "from": 162,
+          "to": 162
+        },
+        {
+          "from": 216,
+          "to": 268
+        }
+      ]
+    },
+    {
+      "id": "phone-silhouette",
+      "name": "Phone shadow",
+      "role": "background",
+      "category": "Technology",
+      "tags": [
+        "phone",
+        "smartphone",
+        "technology",
+        "background",
+        "shadow"
+      ],
+      "filename": "phone-silhouette.svg",
+      "viewBox": "2038 7742 798 463",
+      "width": 798,
+      "height": 463,
+      "pathCount": 155,
+      "sourceRegion": {
+        "x": 1850,
+        "y": 7650,
+        "width": 1050,
+        "height": 650
+      },
+      "sourceElements": [
+        {
+          "from": 424,
+          "to": 578
+        }
+      ]
+    },
+    {
+      "id": "puzzle-silhouette",
+      "name": "Puzzle shadow",
+      "role": "background",
+      "category": "Ideas",
+      "tags": [
+        "puzzle",
+        "solution",
+        "connection",
+        "background",
+        "shadow"
+      ],
+      "filename": "puzzle-silhouette.svg",
+      "viewBox": "3100 7851 545 315",
+      "width": 545,
+      "height": 315,
+      "pathCount": 57,
+      "sourceRegion": {
+        "x": 3000,
+        "y": 7750,
+        "width": 700,
+        "height": 550
+      },
+      "sourceElements": [
+        {
+          "from": 80,
+          "to": 136
+        }
+      ]
+    },
+    {
+      "id": "disc-silhouette",
+      "name": "Disc shadow",
+      "role": "background",
+      "category": "Music",
+      "tags": [
+        "disc",
+        "music",
+        "media",
+        "background",
+        "shadow"
+      ],
+      "filename": "disc-silhouette.svg",
+      "viewBox": "4005 7970 287 189",
+      "width": 287,
+      "height": 189,
+      "pathCount": 136,
+      "sourceRegion": {
+        "x": 3950,
+        "y": 7850,
+        "width": 400,
+        "height": 450
+      },
+      "sourceElements": [
+        {
+          "from": 1201,
+          "to": 1336
+        }
+      ]
+    },
+    {
+      "id": "headphones-silhouette",
+      "name": "Headphone shadow",
+      "role": "background",
+      "category": "Music",
+      "tags": [
+        "headphones",
+        "music",
+        "audio",
+        "background",
+        "shadow"
+      ],
+      "filename": "headphones-silhouette.svg",
+      "viewBox": "470 8827 889 692",
+      "width": 889,
+      "height": 692,
+      "pathCount": 84,
+      "sourceRegion": {
+        "x": 420,
+        "y": 8750,
+        "width": 980,
+        "height": 850
+      },
+      "sourceElements": [
+        {
+          "from": 663,
+          "to": 746
+        }
+      ]
+    },
+    {
+      "id": "lamp-silhouette",
+      "name": "Lamp shadow",
+      "role": "background",
+      "category": "Work",
+      "tags": [
+        "lamp",
+        "light",
+        "focus",
+        "background",
+        "shadow"
+      ],
+      "filename": "lamp-silhouette.svg",
+      "viewBox": "1822 8462 947 1130",
+      "width": 947,
+      "height": 1130,
+      "pathCount": 27,
+      "sourceRegion": {
+        "x": 1850,
+        "y": 8350,
+        "width": 1000,
+        "height": 1300
+      },
+      "sourceElements": [
+        {
+          "from": 774,
+          "to": 800
+        }
+      ]
+    },
+    {
+      "id": "tulips-silhouette",
+      "name": "Tulip shadow",
+      "role": "background",
+      "category": "Growth",
+      "tags": [
+        "tulips",
+        "flowers",
+        "growth",
+        "background",
+        "shadow"
+      ],
+      "filename": "tulips-silhouette.svg",
+      "viewBox": "3060 8797 592 748",
+      "width": 592,
+      "height": 748,
+      "pathCount": 131,
+      "sourceRegion": {
+        "x": 2950,
+        "y": 8700,
+        "width": 750,
+        "height": 950
+      },
+      "sourceElements": [
+        {
+          "from": 1476,
+          "to": 1606
+        }
+      ]
+    },
+    {
+      "id": "wallet-silhouette",
+      "name": "Wallet shadow",
+      "role": "background",
+      "category": "Finance",
+      "tags": [
+        "wallet",
+        "finance",
+        "background",
+        "shadow"
+      ],
+      "filename": "wallet-silhouette.svg",
+      "viewBox": "3868 9119 631 397",
+      "width": 631,
+      "height": 397,
+      "pathCount": 86,
+      "sourceRegion": {
+        "x": 3800,
+        "y": 9000,
+        "width": 750,
+        "height": 600
+      },
+      "sourceElements": [
+        {
+          "from": 887,
+          "to": 972
+        }
+      ]
+    },
+    {
+      "id": "paper-silhouette",
+      "name": "Paper shadow",
+      "role": "background",
+      "category": "Planning",
+      "tags": [
+        "paper",
+        "notes",
+        "planning",
+        "background",
+        "shadow"
+      ],
+      "filename": "paper-silhouette.svg",
+      "viewBox": "365 9944 1241 659",
+      "width": 1241,
+      "height": 659,
+      "pathCount": 22,
+      "sourceRegion": {
+        "x": 320,
+        "y": 9850,
+        "width": 1330,
+        "height": 850
+      },
+      "sourceElements": [
+        {
+          "from": 1043,
+          "to": 1064
+        }
+      ]
+    },
+    {
+      "id": "pen-silhouette",
+      "name": "Pen shadow",
+      "role": "background",
+      "category": "Planning",
+      "tags": [
+        "pen",
+        "writing",
+        "background",
+        "shadow"
+      ],
+      "filename": "pen-silhouette.svg",
+      "viewBox": "1795 10151 510 287",
+      "width": 510,
+      "height": 287,
+      "pathCount": 24,
+      "sourceRegion": {
+        "x": 1700,
+        "y": 10000,
+        "width": 700,
+        "height": 500
+      },
+      "sourceElements": [
+        {
+          "from": 997,
+          "to": 1020
+        }
+      ]
+    }
+  ]
+}
